@@ -4,6 +4,6 @@ Spyder Editor
 
 This is a temporary script file.
 """
-for i in range(50):
+for i in range(6):
     print('Hello crazy world')
     print("Goodbye Crazy world")
