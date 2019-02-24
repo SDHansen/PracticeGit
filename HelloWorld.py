@@ -5,5 +5,4 @@ Spyder Editor
 This is a temporary script file.
 """
 for i in range(10):
-    print('hello crazy world')
-
+    print('Goodbye crazy world')
